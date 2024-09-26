@@ -554,44 +554,7 @@ main {
   font-weight: var(--fw-3);
   line-height: 1.6;
 }
-/**
- * #toolkit 
- */
 
- .toolkit {
-  margin-top: 40px;
-  margin-bottom: 40px;
-  padding: 20px;
-  background-color: #343434;
-  border-radius: 10px;
-}
-
-.toolkit-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-.toolkit-item {
-  flex: 1;
-  padding: 20px;
-  border: 1px solid #ffd169;
-  border-radius: 5px;
-  margin-bottom: 20px;
-}
-
-.toolkit-item h4 {
-  margin-bottom: 10px;
-}
-
-.toolkit-item ul {
-  list-style: none;
-  padding: 0;
-}
-
-.toolkit-item ul li {
-  margin-bottom: 5px;
-}
 
 /**
  * #testimonials 
